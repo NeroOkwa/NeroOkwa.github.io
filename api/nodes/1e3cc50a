@@ -1,0 +1,14 @@
+{
+  "type": "pandas.csv_dataset.CSVDataset",
+  "filepath": "/Users/Nero_Okwa/Library/CloudStorage/OneDrive-McKinsey&Company/Documents/GitHub/kedro-viz/demo-project/data/04_feature/feature_importance_output.csv",
+  "plot": null,
+  "image": null,
+  "tracking_data": null,
+  "run_command": "kedro run --to-outputs=feature_importance_output",
+  "preview": null,
+  "stats": {
+    "rows": 15,
+    "columns": 2,
+    "file_size": 460
+  }
+}
